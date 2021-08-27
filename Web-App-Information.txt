@@ -1,0 +1,4 @@
+if you wanna discover the world and each countries .
+i recomand this web app for you or your kids .
+for each country you can discover the flag,the name,the capital ,....
+this web app contains some features like filtring countries by region and searching country by name .
